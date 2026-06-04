@@ -28,6 +28,24 @@ This video shows how to assemble and disassemble the case:
 
 https://github.com/user-attachments/assets/3fa87b10-48f1-4240-b7dd-df9781dbfde8
 
+## Operating the device
+### Power
+The device is powered by a USB-C and does not have a battery, so please make sure that it's connected to a stable USB-C power source. 
+The device shows wether it's powered on or not through the Red LED on the back near the USB-C port.
+
+### Blue Status LED
+The device shows it's status through the Blue Status LED on the back near the USB-C port. 
+Refer to [HomeSpan's documentation on HomeSpan Device Status](https://github.com/HomeSpan/HomeSpan/blob/master/docs/UserGuide.md#homespan-device-status) to be able to identify different states.
+
+### CLI
+The CLI can be used to setup the device, change the WI-FI credentials, or factory reset the system.[^cli]
+You can use the CLI through the onboard USB-C port on the back. Use a baud rate of 9600 for serial communication.
+
+### Control Button
+The Control Button can be used to put the device in Command Mode and select different actions.
+Refer to [HomeSpan's documentation on Device Command Mode](https://github.com/HomeSpan/HomeSpan/blob/master/docs/UserGuide.md#device-command-mode) to know how to use it
+
+
 ## BOM
 Available as a .csv file [here](./BOM/BOM.csv)
 |Name             |Value         |Link                                                                                                        |Cost (EGP)  |Qty|Description           |
@@ -54,7 +72,10 @@ Available as a .csv file [here](./BOM/BOM.csv)
 |Touch sensor     |TTP223        |https://lampatronics.com/product/ttp223-touch-button-module                                                 | EGP 10.00  |1  |                      |
 
 
+> Made by [@mkhairyx](https://github.com/mkhairyx).<br>
+Supported by [Fallout](https://fallout.hackclub.com/) and [Hack Club](https://hackclub.com).<br>
+Powered by [HomeSpan](https://github.com/HomeSpan/HomeSpan)<br>
 <hr>
 
-> Guides on how to use the control button and identify the device's status using the led is coming soon.
 
+[^cli]: Check the [The HomeSpan Command-Line Interface (CLI)](https://github.com/HomeSpan/HomeSpan/blob/master/docs/CLI.md) to be able to use the device's CLI through the onboard USB-C port.
