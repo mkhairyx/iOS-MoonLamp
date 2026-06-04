@@ -1,8 +1,8 @@
 # iOS Moon Lamp
 ![3D Moon Lamp](./Media/Pictures/Fusion360/iOS_MoonLamp.png)
 
-Bought a battery powered Moon lamp a few years ago, and it was cool back then but now it’s boring that I have to turn it on and off manually every night. So I removed the insides of it and made it
-powered with an ESP32 controlled by the iOS Home app.
+Bought a battery powered Moon lamp a few years ago, and it was cool back then but now it’s boring that I have to turn it on and off manually every night. So I removed the insides of it and made it powered with an ESP32 controlled by the iOS Home app.
+
 <img src="./Media/Pictures/Camera/lampbat.jpeg" alt="Moon Lamp" width="50%">
 
 ## The Design
