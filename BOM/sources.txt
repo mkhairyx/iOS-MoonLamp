@@ -1,0 +1,18 @@
+0.1uf : https://lampatronics.com/product/smd-multilayer-ceramic-capacitor-1206-100nf-50v-1pcs
+22uf : https://lampatronics.com/product/smd-multilayer-ceramic-capacitor-1210-22uf-16v-1pcs
+4.7uf : https://lampatronics.com/product/smd-multilayer-ceramic-capacitor-1206-4-7uf-16v-1pcs
+WS2812B: https://uge-one.com/product/f5-5mm-ws2812b-rgb-smart-led-5v/
+red led: https://lampatronics.com/product/smd-led-0603-red-10pcs
+blue led: https://lampatronics.com/product/smd-led-0603-blue-10pcs
+USB C : https://www.ram-e-shop.com/shop/usb9-c-type-pcb-usb-connector-on-pcb-c-type-type-female-16-pin-sku-usb9-8125
+5.1kohm : https://lampatronics.com/product/resistor-5-1k-ohm-1-4w-2pcs
+2kohm : https://lampatronics.com/product/smd-resistor-2kohm-202-0805-10pcs
+10kohm : https://lampatronics.com/product/smd-resistor-10kohm-103-0805-10pcs
+22kohm : https://lampatronics.com/product/smd-resistor-22kohm-223-0805-10pcs
+47kohm : https://lampatronics.com/product/smd-resistor-47k-473-ohm-0805-10pcs
+boot and en button: https://lampatronics.com/product/push-button-long-right-angle-2pin2base-7x7-5x6mm
+ctrl button: https://lampatronics.com/product/push-button-4pin-long-6x6x13mm
+regulator : https://lampatronics.com/product/ams1117-adj-sot-223-adj-linear-voltage-regulator
+optocoupler : https://www.ram-e-shop.com/shop/pc817-pc817-el817c-f-5866
+TTP223 : https://lampatronics.com/product/ttp223-touch-button-module
+220ohm : https://lampatronics.com/product/smd-resistor-220ohm-221-0805-10pcs
