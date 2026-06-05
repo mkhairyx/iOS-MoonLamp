@@ -17,6 +17,7 @@ And here's the gerber view for it:
 ![Schematic](./Media/Pictures/KiCad/schematic.png)
 
 ### The case:
+The case is held together with four M5 screws.
 ![Case](./Media/Pictures/Excalidraw/Assemled.png)
 
 ## Assembly
