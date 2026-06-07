@@ -80,6 +80,10 @@ Available as a .csv file [here](./BOM/BOM.csv)
 |Touch sensor     |TTP223        |https://lampatronics.com/product/ttp223-touch-button-module                                                 | EGP 10.00  |1  |                      |
 
 
+## Notes
+The TTP 223 module is connected to the main PCB using three wires.
+The 3D printed case, the PCB, and the Moon itself (the lamp) are not included in the BOM.
+
 > Made by [@mkhairyx](https://github.com/mkhairyx).<br>
 Supported by [Fallout](https://fallout.hackclub.com/) and [Hack Club](https://hackclub.com).<br>
 Powered by [HomeSpan](https://github.com/HomeSpan/HomeSpan)<br>
