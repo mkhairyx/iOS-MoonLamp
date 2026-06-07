@@ -81,7 +81,7 @@ Available as a .csv file [here](./BOM/BOM.csv)
 
 
 ## Notes
-The TTP 223 module is connected to the main PCB using three wires.
+The TTP 223 module is connected to the main PCB using three wires. <br>
 The 3D printed case, the PCB, and the Moon itself (the lamp) are not included in the BOM.
 
 > Made by [@mkhairyx](https://github.com/mkhairyx).<br>
