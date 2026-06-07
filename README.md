@@ -7,6 +7,9 @@ Bought a battery powered Moon lamp a few years ago, and it was cool back then bu
 
 
 ## The Poster
+
+High resolution poster available [here](./Media/Pictures/PSD/MoonLamp.png).
+
 ![Poster](./Media/Pictures/PSD/MoonLamp-lores.png)
 
 ## The Design
