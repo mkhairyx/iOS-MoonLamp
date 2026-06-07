@@ -5,6 +5,10 @@ Bought a battery powered Moon lamp a few years ago, and it was cool back then bu
 
 <img src="./Media/Pictures/Camera/lampbat.jpeg" alt="Moon Lamp" width="50%">
 
+
+## The Poster
+![Poster](./Media/Pictures/PSD/MoonLamp-lores.png)
+
 ## The Design
 
 ### The PCB:
