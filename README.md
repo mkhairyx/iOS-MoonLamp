@@ -36,6 +36,14 @@ This video shows how to assemble and disassemble the case:
 
 https://github.com/user-attachments/assets/3fa87b10-48f1-4240-b7dd-df9781dbfde8
 
+## Firmware
+### Compile and flash using the Arduino IDE
+If you want to edit the code, compile it yourself, then flash it; you can download the arduino sketch and the required libraries [here](./source/Software/Arduino).
+### Flash the firmware as is
+If you want to flash the firmware as is, you can download it [here](./source/Software/Firmware). <br>
+You can use [ESPWebTool](https://esptool.spacehuhn.com) to flash the firmware directly to the ESP32 using your browser.
+
+
 ## Operating the device
 ### Power
 The device is powered by a USB-C and does not have a battery, so please make sure that it's connected to a stable USB-C power source. 
