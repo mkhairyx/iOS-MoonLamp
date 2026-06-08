@@ -97,7 +97,8 @@ Available as a .csv file [here](./BOM/BOM.csv)
 
 [metanoia](metanoia-eg.com) (Case only):
 
-Still in review..
+<img width="696" height="630" alt="image" src="https://github.com/user-attachments/assets/22a04b09-526b-4560-bdca-edc3c864e7a0" />
+
 
 #### Out of Egypt (international shipping):
 [JLCPCB](https://jlcpcb.com/) (both PCB and Case):
