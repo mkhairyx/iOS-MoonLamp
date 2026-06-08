@@ -1,0 +1,23 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,KiLib_Generator,Sim.Pins
+"C1, C2, C5",3,22uF/10V(20%),C_1210_3225Metric_Pad1.33x2.70mm_HandSolder,,,,smt,Unpolarized capacitor,SMD_2terminal_chip_molded,
+"C10, C11, C3, C6, C7, C8, C9",7,0.1uF/50V(10%),C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,,,,smt,Unpolarized capacitor,SMD_2terminal_chip_molded,
+C4,1,4.7uF/6.3V(10%),C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,,,,smt,Unpolarized capacitor,SMD_2terminal_chip_molded,
+D1,1,WS2812B,LED_D5.0mm-4_RGB_Wide_Pins,,,,tht,RGB LED with integrated controller,,
+D2,1,RED LED,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,,,smt,Light emitting diode,SMD_2terminal_chip_molded,1=K 2=A
+D3,1,BLUE LED,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,,,smt,Light emitting diode,SMD_2terminal_chip_molded,1=K 2=A
+J1,1,USB_C_Receptacle_USB2.0_16P,USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,,,,smt,USB 2.0-only 16P Type-C Receptacle connector,,
+"R1, R2",2,5.1k,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor,resistor/THT,
+"R10, R3",2,2k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,,,smt,Resistor,SMD_2terminal_chip_molded,
+R4,1,22K(5%),R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,,,smt,Resistor,SMD_2terminal_chip_molded,
+R5,1,47K,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,,,smt,Resistor,SMD_2terminal_chip_molded,
+R6,1,2K,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,,,smt,Resistor,SMD_2terminal_chip_molded,
+"R7, R8",2,10K,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,,,smt,Resistor,SMD_2terminal_chip_molded,
+R9,1,220,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,,,smt,Resistor,SMD_2terminal_chip_molded,
+SW1,1,(BOOT),SW_Tactile_SPST_Angled_PTS645Vx58-2LFS,,,,tht,"Push button switch, generic, two pins",,
+SW2,1,(EN),SW_Tactile_SPST_Angled_PTS645Vx58-2LFS,,,,tht,"Push button switch, generic, two pins",,
+SW3,1,(CTRL),SW_PUSH_6mm_H13mm,,,,tht,"Push button switch, generic, two pins",,
+U1,1,AMS1117-3.3,SOT-223-3_TabPin2,,,,smt,"1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223",,
+U2,1,CP2102N-Axx-xQFN28,QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm,,,,smt,"USB to UART master bridge, QFN-28",package/no_lead,
+U3,1,ESP32-WROOM-32,ESP32-WROOM-32,,,,smt,"RF Module, ESP32-D0WDQ6 SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, onboard antenna, SMD",,
+U4,1,PC817,DIP-4_W7.62mm,,,,tht,"DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4",package/DIP/legacy,
+U5,1,~,Untitled,,,,tht,,,
