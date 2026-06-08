@@ -64,6 +64,7 @@ Refer to [HomeSpan's documentation on Device Command Mode](https://github.com/Ho
 
 ## BOM
 Available as a .csv file [here](./BOM/BOM.csv)
+### BOM Table
 |Name             |Value         |Link                                                                                                        |Cost (EGP)  |Qty|Description           |
 |-----------------|--------------|------------------------------------------------------------------------------------------------------------|------------|---|----------------------|
 |Capacitor        |22uF          |https://lampatronics.com/product/smd-multilayer-ceramic-capacitor-1210-22uf-16v-1pcs                        | EGP 2.00   |3  |                      |
@@ -88,9 +89,26 @@ Available as a .csv file [here](./BOM/BOM.csv)
 |Touch sensor     |TTP223        |https://lampatronics.com/product/ttp223-touch-button-module                                                 | EGP 10.00  |1  |                      |
 
 
+### Orders from different manufacturers
+#### In Egypt:
+[Nori](norisolutions.com) (PCB only):
+
+<img width="1121" height="851" alt="image" src="https://github.com/user-attachments/assets/e54666af-4011-4255-92f0-bce9561453fd" />
+
+[metanoia](metanoia-eg.com) (Case only):
+
+Still in review..
+
+#### Out of Egypt (international shipping):
+[JLCPCB](https://jlcpcb.com/) (both PCB and Case):
+
+<img width="1433" height="704" alt="image" src="https://github.com/user-attachments/assets/70010bd7-c435-4c59-81e1-5365969d6066" />
+
+
 ## Notes
 The TTP 223 module is connected to the main PCB using three wires. <br>
-The 3D printed case, the PCB, and the Moon itself (the lamp) are not included in the BOM.
+The 3D printed case, the PCB, and the Moon itself (the lamp) are not included in the BOM, but their costs are shown in [Orders from different manufacturers](./#Orders-from-different-manufacturers).
+The Moon Lamp it self was salvaged from an old lamp, so it costs nothing, therefore it wasn't included in the BOM.
 
 > Made by [@mkhairyx](https://github.com/mkhairyx).<br>
 Supported by [Fallout](https://fallout.hackclub.com/) and [Hack Club](https://hackclub.com).<br>
