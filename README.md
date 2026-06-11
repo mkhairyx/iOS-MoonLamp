@@ -28,6 +28,10 @@ The case is held together with four M5 screws.
 ![Case](./Media/Pictures/Excalidraw/Assemled.png)
 
 ## Assembly
+### Step Files
+
+Check [Step_Files](./Step_Files/) to see step files.
+
 ### Exploded View:
 ![Exploded](./Media/Pictures/Fusion360/Assembly.png)
 
