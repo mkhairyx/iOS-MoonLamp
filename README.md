@@ -98,17 +98,17 @@ Available as a .csv file [here](./BOM/BOM.csv)
 
 ### Orders from different manufacturers
 #### In Egypt:
-[Nori](norisolutions.com) (PCB only):
+[Nori](norisolutions.com) (PCB only): $19.05
 
 <img width="1121" height="851" alt="image" src="https://github.com/user-attachments/assets/e54666af-4011-4255-92f0-bce9561453fd" />
 
-[metanoia](metanoia-eg.com) (Case only):
+[metanoia](metanoia-eg.com) (Case only): $5.77
 
 <img width="696" height="630" alt="image" src="https://github.com/user-attachments/assets/22a04b09-526b-4560-bdca-edc3c864e7a0" />
 
 
-#### Out of Egypt (international shipping):
-[JLCPCB](https://jlcpcb.com/) (both PCB and Case):
+#### Out of Egypt (international shipping): 
+[JLCPCB](https://jlcpcb.com/) (both PCB and Case): $32.42
 
 <img width="1433" height="704" alt="image" src="https://github.com/user-attachments/assets/70010bd7-c435-4c59-81e1-5365969d6066" />
 
