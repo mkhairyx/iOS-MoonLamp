@@ -118,7 +118,7 @@ The TTP 223 module is connected to the main PCB using three wires. <br>
 The 3D printed case, the PCB, and the Moon itself (the lamp) are not included in the BOM, but their costs are shown in [Orders from different manufacturers](./#Orders-from-different-manufacturers).
 The Moon Lamp it self was salvaged from an old lamp, so it costs nothing, therefore it wasn't included in the BOM.
 
-> Made by [@mkhairyx](https://github.com/mkhairyx).<br>
+> Made and designed by [@mkhairyx](https://github.com/mkhairyx).<br>
 Supported by [Fallout](https://fallout.hackclub.com/) and [Hack Club](https://hackclub.com).<br>
 Powered by [HomeSpan](https://github.com/HomeSpan/HomeSpan)<br>
 <hr>
